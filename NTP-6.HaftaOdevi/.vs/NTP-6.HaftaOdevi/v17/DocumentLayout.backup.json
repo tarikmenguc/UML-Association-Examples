@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\M.Tar\u0131k MENG\u00DC\u00C7\\source\\repos\\NTP-6.HaftaOdevi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F748E277-C1E7-46EB-8B00-A441B176C786}|Dependency(Ba\u011F\u0131ml\u0131l\u0131k ve Bile\u015Fim)\\Dependency(Ba\u011F\u0131ml\u0131l\u0131k ve Bile\u015Fim).csproj|c:\\users\\m.tar\u0131k meng\u00FC\u00E7\\source\\repos\\ntp-6.haftaodevi\\dependency(ba\u011F\u0131ml\u0131l\u0131k ve bile\u015Fim)\\okul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F748E277-C1E7-46EB-8B00-A441B176C786}|Dependency(Ba\u011F\u0131ml\u0131l\u0131k ve Bile\u015Fim)\\Dependency(Ba\u011F\u0131ml\u0131l\u0131k ve Bile\u015Fim).csproj|solutionrelative:dependency(ba\u011F\u0131ml\u0131l\u0131k ve bile\u015Fim)\\okul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F748E277-C1E7-46EB-8B00-A441B176C786}|Dependency(Ba\u011F\u0131ml\u0131l\u0131k ve Bile\u015Fim)\\Dependency(Ba\u011F\u0131ml\u0131l\u0131k ve Bile\u015Fim).csproj|c:\\users\\m.tar\u0131k meng\u00FC\u00E7\\source\\repos\\ntp-6.haftaodevi\\dependency(ba\u011F\u0131ml\u0131l\u0131k ve bile\u015Fim)\\\u00F6grenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F748E277-C1E7-46EB-8B00-A441B176C786}|Dependency(Ba\u011F\u0131ml\u0131l\u0131k ve Bile\u015Fim)\\Dependency(Ba\u011F\u0131ml\u0131l\u0131k ve Bile\u015Fim).csproj|solutionrelative:dependency(ba\u011F\u0131ml\u0131l\u0131k ve bile\u015Fim)\\\u00F6grenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 274,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u00D6grenci.cs",
+              "DocumentMoniker": "C:\\Users\\M.Tar\u0131k MENG\u00DC\u00C7\\source\\repos\\NTP-6.HaftaOdevi\\Dependency(Ba\u011F\u0131ml\u0131l\u0131k ve Bile\u015Fim)\\\u00D6grenci.cs",
+              "RelativeDocumentMoniker": "Dependency(Ba\u011F\u0131ml\u0131l\u0131k ve Bile\u015Fim)\\\u00D6grenci.cs",
+              "ToolTip": "C:\\Users\\M.Tar\u0131k MENG\u00DC\u00C7\\source\\repos\\NTP-6.HaftaOdevi\\Dependency(Ba\u011F\u0131ml\u0131l\u0131k ve Bile\u015Fim)\\\u00D6grenci.cs",
+              "RelativeToolTip": "Dependency(Ba\u011F\u0131ml\u0131l\u0131k ve Bile\u015Fim)\\\u00D6grenci.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:52:33.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Okul.cs",
+              "DocumentMoniker": "C:\\Users\\M.Tar\u0131k MENG\u00DC\u00C7\\source\\repos\\NTP-6.HaftaOdevi\\Dependency(Ba\u011F\u0131ml\u0131l\u0131k ve Bile\u015Fim)\\Okul.cs",
+              "RelativeDocumentMoniker": "Dependency(Ba\u011F\u0131ml\u0131l\u0131k ve Bile\u015Fim)\\Okul.cs",
+              "ToolTip": "C:\\Users\\M.Tar\u0131k MENG\u00DC\u00C7\\source\\repos\\NTP-6.HaftaOdevi\\Dependency(Ba\u011F\u0131ml\u0131l\u0131k ve Bile\u015Fim)\\Okul.cs",
+              "RelativeToolTip": "Dependency(Ba\u011F\u0131ml\u0131l\u0131k ve Bile\u015Fim)\\Okul.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:52:01.49Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 126,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
